@@ -1,5 +1,5 @@
 Hey, My name is Christopher and I am an inspiring developer who always looking to improve my skills.
-I am learning Python, it's toolkit Tkinter and it's framworks Kivy and Django. I have skills in (Python, HTML, CSS, SqLite)
+I am learning Python, it's toolkit Tkinter and it's framworks Kivy and Django. I have skills in (Python, HTML, CSS, SqLite, MySQL, JS, JQuery)
 
 I am currently working on adding projects and expending my skills with Python and front end development.
 
