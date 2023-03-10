@@ -1,3 +1,7 @@
 # Full Stack Python Developer
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,css,html,django)](https://skillicons.dev)
+# My Skill Set
+[![My Skills](https://skillicons.dev/icons?i=python,js,css,html,django,flask,mysql,git)](https://skillicons.dev)
+
+# Check Out My Portfolio
+https://kirko190255.pythonanywhere.com/
