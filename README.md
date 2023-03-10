@@ -1,3 +1,3 @@
 # Full Stack Python Developer
 
-?i=js,html,css
+[![My Skills](https://skillicons.dev/icons?i=python,js,css,html,django)](https://skillicons.dev)
