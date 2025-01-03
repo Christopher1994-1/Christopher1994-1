@@ -1,4 +1,4 @@
-# Full Stack Python Developer
+# Full Stack Software Developer
 
 # My Skill Set
 [![My Skills](https://skillicons.dev/icons?i=python,js,css,html,django,flask,mysql,git,java,ts)](https://skillicons.dev)
